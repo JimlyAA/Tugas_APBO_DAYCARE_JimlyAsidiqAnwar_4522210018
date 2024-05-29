@@ -1,6 +1,6 @@
 # Tugas_APBO_DAYCARE_JimlyAsidiqAnwar_4522210018
 
-#Identifikasi Aktor yang terlibat
+# Identifikasi Aktor yang terlibat
 Dalam sistem informasi daycare, ada tiga aktor utama yang terlibat: orang tua/wali, staf pengasuh, dan administrator. 
 
 **Orang Tua/Wali** adalah pengguna yang mendaftarkan anak-anak mereka ke daycare, memantau perkembangan anak, dan melihat laporan harian serta bulanan. Mereka bertanggung jawab untuk mendaftarkan anak ke dalam sistem, melihat laporan perkembangan anak, dan memperbarui informasi kontak serta data pribadi. 
