@@ -12,7 +12,7 @@ Dalam sistem informasi daycare, ada tiga aktor utama yang terlibat: orang tua/wa
 Masing-masing aktor memiliki peran dan tanggung jawab yang spesifik, yang bersama-sama memastikan bahwa sistem informasi daycare beroperasi dengan efisien dan efektif dalam mendukung operasional harian daycare.
 
 # Class diagram
-![image](https://github.com/JimlyAA/Tugas_APBO_DAYCARE_JimlyAsidiqAnwar_4522210018/assets/145972206/a696935d-b530-4f43-8112-61610999236c)
+![class diagram new](https://github.com/JimlyAA/Tugas_APBO_DAYCARE_JimlyAsidiqAnwar_4522210018/assets/145972206/ca1218db-6dcb-4d0c-9d9a-c8c9667fe0fd)
 
 # ERD
 ![image](https://github.com/JimlyAA/Tugas_APBO_DAYCARE_JimlyAsidiqAnwar_4522210018/assets/145972206/5083f1db-1def-4d14-9020-2662f9c5c452)
